@@ -1,0 +1,24 @@
+﻿Position,Level,Salary
+DET,1,25000
+GET,1,35000
+Junior Enginer- Sales,1,37000
+Junior Enginer- Design,1,37000
+Design Engineer,2,40000
+Sr. Design Engineer,3,45000
+Ass. Manager- Design,4,50000
+Manager- Design,5,70000
+Sales Engineer,2,40000
+Sr. Sales Engineer,3,45000
+Ass. Manager- Sales,4,50000
+Manager-Sales,5,70000
+Country Manager-Sales,7,110000
+General Manager- Sales,6,90000
+General Manager- Design,6,90000
+Product Manager,8,100000
+Region Manager-Sales,6,90000
+HR-Trainee,1,35000
+HR Executive,4,60000
+Sr. HR- Sales,5,75000
+Vice Precident,7,120000
+CEO,9,200000
+Director,10,300000
